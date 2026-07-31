@@ -1,0 +1,6 @@
+{
+  "name": "SmartCare AI Token & Queue System",
+  "description": "Complete AI-powered online appointment, smart token booking, live queue tracking, waiting time prediction, hospital TV display, elderly helper mode, family tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
